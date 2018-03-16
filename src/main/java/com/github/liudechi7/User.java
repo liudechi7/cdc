@@ -1,4 +1,4 @@
-package com.liuchi;
+package com.github.liudechi7;
 
 /**
  * @author liuchi
